@@ -1,0 +1,62 @@
+body{
+    background-color: black;
+    color: aliceblue;
+}
+h1{
+    color: red;
+    text-align: center;
+}
+h2{
+    color: red;
+    text-align: center;
+    
+}
+a{
+    color: red;
+
+}
+a:hover{
+    color:white;
+}
+img{
+    width: 500px;
+}
+.imageFirst{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: large;
+}
+.imageSecond{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: large;
+    font-style: italic;
+}
+.players{
+    display: flex;
+    justify-content: center;
+    align-items: normal;
+}
+.emotions{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.lastParag{
+    margin-left: 20px;
+    font-style: italic;
+}
+p{
+    font-size: large;
+}
+.text{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    background-color: rgb(252, 80, 80);
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
